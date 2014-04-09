@@ -6,5 +6,10 @@ and
 
 https://github.com/thebigmunch/gmusicapi-scripts (particularly gmsync)
 
+and 
+
+https://pypi.python.org/pypi/watchdog
+
+
 
 
