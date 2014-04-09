@@ -1,6 +1,7 @@
 so you need this:
 
 http://unofficial-google-music-api.readthedocs.org/en/latest/index.html
+(you also need avconv)
 
 and 
 
